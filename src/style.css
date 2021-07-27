@@ -34,7 +34,7 @@ input:hover {
 .button {
   display: inline-block;
   position: relative;
-  left: 420px;
+  left: 429px;
   top: -37px;
   width: 100px;
   font-weight: 400;
@@ -56,7 +56,7 @@ input:hover {
 .button-current {
   display: inline-block;
   position: relative;
-  left: 440px;
+  left: 453px;
   top: -37px;
   width: 100px;
   font-weight: 400;
